@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hola desde la rama 1
+=======
+
+hola desde la rama2
+>>>>>>> rama2
